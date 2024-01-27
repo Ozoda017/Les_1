@@ -1,0 +1,16 @@
+D:\Csharp01\Les1\Task4\obj\Debug\net8.0\Task4.csproj.AssemblyReference.cache
+D:\Csharp01\Les1\Task4\obj\Debug\net8.0\Task4.GeneratedMSBuildEditorConfig.editorconfig
+D:\Csharp01\Les1\Task4\obj\Debug\net8.0\Task4.AssemblyInfoInputs.cache
+D:\Csharp01\Les1\Task4\obj\Debug\net8.0\Task4.AssemblyInfo.cs
+D:\Csharp01\Les1\Task4\obj\Debug\net8.0\Task4.csproj.CoreCompileInputs.cache
+D:\Csharp01\Les1\Task4\obj\Debug\net8.0\Task4.sourcelink.json
+D:\Csharp01\Les1\Task4\bin\Debug\net8.0\Task4.exe
+D:\Csharp01\Les1\Task4\bin\Debug\net8.0\Task4.deps.json
+D:\Csharp01\Les1\Task4\bin\Debug\net8.0\Task4.runtimeconfig.json
+D:\Csharp01\Les1\Task4\bin\Debug\net8.0\Task4.dll
+D:\Csharp01\Les1\Task4\bin\Debug\net8.0\Task4.pdb
+D:\Csharp01\Les1\Task4\obj\Debug\net8.0\Task4.dll
+D:\Csharp01\Les1\Task4\obj\Debug\net8.0\refint\Task4.dll
+D:\Csharp01\Les1\Task4\obj\Debug\net8.0\Task4.pdb
+D:\Csharp01\Les1\Task4\obj\Debug\net8.0\Task4.genruntimeconfig.cache
+D:\Csharp01\Les1\Task4\obj\Debug\net8.0\ref\Task4.dll
