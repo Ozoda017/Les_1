@@ -1,0 +1,16 @@
+D:\Csharp01\Les1\Task5\bin\Debug\net8.0\Task5.exe
+D:\Csharp01\Les1\Task5\bin\Debug\net8.0\Task5.deps.json
+D:\Csharp01\Les1\Task5\bin\Debug\net8.0\Task5.runtimeconfig.json
+D:\Csharp01\Les1\Task5\bin\Debug\net8.0\Task5.dll
+D:\Csharp01\Les1\Task5\bin\Debug\net8.0\Task5.pdb
+D:\Csharp01\Les1\Task5\obj\Debug\net8.0\Task5.csproj.AssemblyReference.cache
+D:\Csharp01\Les1\Task5\obj\Debug\net8.0\Task5.GeneratedMSBuildEditorConfig.editorconfig
+D:\Csharp01\Les1\Task5\obj\Debug\net8.0\Task5.AssemblyInfoInputs.cache
+D:\Csharp01\Les1\Task5\obj\Debug\net8.0\Task5.AssemblyInfo.cs
+D:\Csharp01\Les1\Task5\obj\Debug\net8.0\Task5.csproj.CoreCompileInputs.cache
+D:\Csharp01\Les1\Task5\obj\Debug\net8.0\Task5.sourcelink.json
+D:\Csharp01\Les1\Task5\obj\Debug\net8.0\Task5.dll
+D:\Csharp01\Les1\Task5\obj\Debug\net8.0\refint\Task5.dll
+D:\Csharp01\Les1\Task5\obj\Debug\net8.0\Task5.pdb
+D:\Csharp01\Les1\Task5\obj\Debug\net8.0\Task5.genruntimeconfig.cache
+D:\Csharp01\Les1\Task5\obj\Debug\net8.0\ref\Task5.dll
