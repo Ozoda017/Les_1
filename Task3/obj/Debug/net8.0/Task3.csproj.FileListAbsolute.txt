@@ -1,0 +1,16 @@
+D:\Csharp01\Les1\Task3\bin\Debug\net8.0\Task3.exe
+D:\Csharp01\Les1\Task3\bin\Debug\net8.0\Task3.deps.json
+D:\Csharp01\Les1\Task3\bin\Debug\net8.0\Task3.runtimeconfig.json
+D:\Csharp01\Les1\Task3\bin\Debug\net8.0\Task3.dll
+D:\Csharp01\Les1\Task3\bin\Debug\net8.0\Task3.pdb
+D:\Csharp01\Les1\Task3\obj\Debug\net8.0\Task3.csproj.AssemblyReference.cache
+D:\Csharp01\Les1\Task3\obj\Debug\net8.0\Task3.GeneratedMSBuildEditorConfig.editorconfig
+D:\Csharp01\Les1\Task3\obj\Debug\net8.0\Task3.AssemblyInfoInputs.cache
+D:\Csharp01\Les1\Task3\obj\Debug\net8.0\Task3.AssemblyInfo.cs
+D:\Csharp01\Les1\Task3\obj\Debug\net8.0\Task3.csproj.CoreCompileInputs.cache
+D:\Csharp01\Les1\Task3\obj\Debug\net8.0\Task3.sourcelink.json
+D:\Csharp01\Les1\Task3\obj\Debug\net8.0\Task3.dll
+D:\Csharp01\Les1\Task3\obj\Debug\net8.0\refint\Task3.dll
+D:\Csharp01\Les1\Task3\obj\Debug\net8.0\Task3.pdb
+D:\Csharp01\Les1\Task3\obj\Debug\net8.0\Task3.genruntimeconfig.cache
+D:\Csharp01\Les1\Task3\obj\Debug\net8.0\ref\Task3.dll
